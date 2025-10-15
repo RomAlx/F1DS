@@ -1,0 +1,22 @@
+# IDE
+/.idea/
+/.vscode/
+
+# FastF1 кэш
+/f1_cache/
+
+# Данные
+/data/
+
+# Python
+/.venv/
+__pycache__/
+
+# Модели
+/models/
+
+# Системные файлы
+.DS_Store
+
+# Environments
+.env
